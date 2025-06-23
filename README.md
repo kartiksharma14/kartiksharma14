@@ -17,8 +17,6 @@ Currently working at **Sterlite Technologies** where I build SaaS platforms, bac
 
 ### 📌 Featured Projects  
 - 🔗 [Task Manager API](https://github.com/kartiksharma14/task-manager-api) — Django-based API with auth and filtering  
-- 🌐 [Frontend Dashboard](https://github.com/yourusername/frontend-dashboard) — React app connected to backend APIs  
-- 🔒 [URL Shortener](https://github.com/yourusername/url-shortener) — Spring Boot service with click tracking
 
 ---
 
