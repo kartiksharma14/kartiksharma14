@@ -13,12 +13,6 @@ Currently working at **Sterlite Technologies** where I build SaaS platforms, bac
 **Frameworks:** Django, Spring Boot, React, Node.js  
 **Tools:** Git, Postman, MySQL, Firebase, Tailwind, AWS (Basics)
 
----
-
-### 📌 Featured Projects  
-- 🔗 [Task Manager API](https://github.com/kartiksharma14/task-manager-api) — Django-based API with auth and filtering  
-
----
 
 ### 📫 Let’s Connect!  
 📧 kartik8569@gmail.com  
